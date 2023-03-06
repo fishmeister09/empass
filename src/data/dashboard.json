@@ -1,0 +1,47 @@
+[
+  {
+    "test_taken": "Economics Test",
+    "test_score": 73,
+    "score_rating": "average"
+  },
+  {
+    "test_taken": "Music Theory Exam",
+    "test_score": 80,
+    "score_rating": "good"
+  },
+  {
+    "test_taken": "Statistics Quiz",
+    "test_score": 65,
+    "score_rating": "below_average"
+  },
+  {
+    "test_taken": "Foreign Language Test",
+    "test_score": 82,
+    "score_rating": "good"
+  },
+  {
+    "test_taken": "Art History Exam",
+    "test_score": 96,
+    "score_rating": "good"
+  },
+  {
+    "test_taken": "Geography Quiz",
+    "test_score": 60,
+    "score_rating": "below_average"
+  },
+  {
+    "test_taken": "Programming Test",
+    "test_score": 72,
+    "score_rating": "average"
+  },
+  {
+    "test_taken": "Science Exam",
+    "test_score": 85,
+    "score_rating": "good"
+  },
+  {
+    "test_taken": "English Grammar Test",
+    "test_score": 92,
+    "score_rating": "good"
+  }
+]

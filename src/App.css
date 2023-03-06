@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+.status {
+  font-weight: 700;
+  padding: 1% 5%;
+}
+.average {
+  color: #1677ff;
+  border-color: #1677ff;
+}
+.below_average {
+  color: #faad14;
+  border-color: #faad14;
+}
+.good {
+  color: #52c41a;
+  border-color: #52c41a;
+}
+.ant-pro-table-list-toolbar-setting-items {
+  display: none;
+}
+.tableContainer {
+  margin: 0 2vw;
+  border: 1px solid #f0f0f0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.title {
+  margin-left: 2vw;
+}
+
+.loginContainer {
+  border: 1px solid #f0f0f0;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 2%;
+  width: min(400px, 98vw);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
